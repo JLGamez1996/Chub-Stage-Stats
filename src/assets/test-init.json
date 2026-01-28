@@ -4,7 +4,7 @@
       "anonymizedId": "1",
       "name": "You",
       "isRemoved": false,
-      "chatProfile": "Doesn't really matter, does it?"
+      "chatProfile": "My name is Alex. I'm 25 years old and work as a software developer."
     }
   },
   "characters": {
@@ -16,7 +16,7 @@
       "example_dialogs": "Hi! What's up?",
       "personality": "Cheerful, normal, helpful",
       "first_message": "How are you? What's the meaning of life?",
-      "scenario": "You're having a coffee with her at work.",
+      "scenario": "You're having a coffee with her at work. Current date: March 15, 2024. Current time: 2:30 PM.",
       "tavern_personality": "",
       "system_prompt": "",
       "post_history_instructions": "",

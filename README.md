@@ -36,7 +36,7 @@ The latest documentation is at [https://docs.chub.ai/docs/stages](https://docs.c
 
 # Quickstart
 
-You'll need node@21.7.1 and yarn installed.
+You'll need node@24.11.1 and yarn installed.
 Then, to get started:
 
 ``` 
